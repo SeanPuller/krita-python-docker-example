@@ -1,6 +1,7 @@
 from PyQt5.QtWidgets import *
 from PyQt5 import Qt
 
+#this is for development autocomplete
 from typing import TYPE_CHECKING
 if TYPE_CHECKING:
     from .PyKrita import *
