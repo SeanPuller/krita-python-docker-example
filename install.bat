@@ -15,3 +15,5 @@ if not exist "%APPDATA%\Krita\Pykrita\docker_example" mkdir "%APPDATA%\Krita\Pyk
 ::Add files
 xcopy /s /y %SOURCE_FOLDER% %DESTINATIONFOLDER%
 copy /y "%SOURCE_FILE%" %DESTINATION%
+
+::cmd /c "C:\Program Files\Krita (x64)\bin\krita.exe"
