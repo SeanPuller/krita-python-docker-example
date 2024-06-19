@@ -1,5 +1,5 @@
 # krita-python-docker-example
-This is intended to help with learning and development for creating dockers for Krita
+This is intended to help with learning and development
 
 ![image](https://github.com/SeanPuller/krita-python-docker-example/assets/43151199/31a4924f-20a8-48d2-97aa-f34b9ffb48f6)
 
