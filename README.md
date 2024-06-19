@@ -8,8 +8,10 @@ Useful links:
 
 https://docs.krita.org/en/user_manual/python_scripting/krita_python_plugin_howto.html#creating-a-docker
 
-https://scripting.krita.org/lessons/reference-api-pyqt
-
 https://invent.kde.org/graphics/krita/-/tree/master/plugins/python
 
+https://scripting.krita.org/lessons/reference-api-pyqt
+
 https://www.riverbankcomputing.com/static/Docs/PyQt5/
+
+https://doc.qt.io/qt-5/gallery.html
