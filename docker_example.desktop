@@ -3,5 +3,6 @@ Type=Service
 ServiceTypes=Krita/PythonPlugin
 X-KDE-Library=docker_example
 X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
 Name=Docker Example
 Comment=this is an example of a krita python docker.
